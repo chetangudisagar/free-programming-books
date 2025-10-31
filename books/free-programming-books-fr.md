@@ -91,7 +91,7 @@
 
 #### Mathématiques
 
-* [Approfondissements de lycée](https://fr.wikibooks.org/wiki/Approfondissements_de_lycée) - Wikibooks contributors, Zhuo Jia Dai, `ctb.:` R3m0t, `ctb.:` Martin Warmer (HTML) (:construction: *in process*)
+* [Approfondissements de lycée](https://fr.wikibooks.org/wiki/Approfondissements_de_lycée) - Wikibooks contributors, Zhuo Jia Dai, `ctb.:` R3m0t, `ctb.:` Martin Warmer (HTML) ( :construction: *in process*)
 
 
 #### Pédagogie pour les enfants et adolescents
@@ -196,7 +196,7 @@
 * [Apprends LaTeX](http://www.babafou.eu.org/Apprends_LaTeX/Apprends_LaTeX.pdf) - Marc Baudoin (PDF)
 * [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourLeProfDeMaths.pdf) - Arnaud Gazagnes (PDF)
 * [Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/tout-sur-latex/) - Vincent Lozano
-* [(Xe)LaTeX appliqué aux sciences humaines](https://web.archive.org/web/20220121031527/geekographie.maieul.net/95) - Maïeul Rouquette *(:card_file_box: archived)*
+* [(Xe)LaTeX appliqué aux sciences humaines](https://web.archive.org/web/20220121031527/geekographie.maieul.net/95) - Maïeul Rouquette *( :card_file_box: archived)*
 
 
 ##### KOMA-Script
@@ -234,13 +234,13 @@
 
 ### Lua
 
-* [Introduction à la programmation Lua](http://www.luteus.biz/Download/LoriotPro_Doc/LUA/LUA_Training_FR/Introduction_Programmation.html)
-* [Lua : le tutoriel](http://wxlua.developpez.com/tutoriels/lua/general/cours-complet/) - Claude Urban
+* [Introduction à la programmation Lua](https://web.archive.org/web/20240109085639/https://www.luteus.biz/Download/LoriotPro_Doc/LUA/LUA_Training_FR/Introduction_Programmation.html) (HTML) *( :card_file_box: archived)*
+* [Lua : le tutoriel](https://wxlua.developpez.com/tutoriels/lua/general/cours-complet/) - Claude Urban, `edt.:` Alexandre Laurent, ALT, Max (HTML, PDF)
 
 
 ### Meteor
 
-* [Apprendre Meteor](https://mquandalle.gitbooks.io/apprendre-meteor/content/) - Maxime Quandalle
+* [Apprendre Meteor](https://mquandalle.gitbooks.io/apprendre-meteor/content/) - Maxime Quandalle (HTML) (CC BY-NC-SA) *( :construction: in process)*
 
 
 ### Perl
@@ -252,7 +252,7 @@
 ### PHP
 
 * [Cours de PHP 5](http://g-rossolini.developpez.com/tutoriels/php/cours/?page=introduction) - Guillaume Rossolini
-* [Programmer en PHP](https://web.archive.org/web/20220327155108/lincoste.com/ebooks/pdf/informatique/programmer_php.pdf) - Julien Gaulmin (PDF) *(:card_file_box: archived)*
+* [Programmer en PHP](https://web.archive.org/web/20220327155108/lincoste.com/ebooks/pdf/informatique/programmer_php.pdf) - Julien Gaulmin (PDF) *( :card_file_box: archived)*
 
 
 #### Symfony
@@ -273,11 +273,9 @@
 
 ### Python
 
-* [Apprendre à programmer avec Python](http://inforef.be/swi/python.htm) - Gerard Swinnen
-* [Introduction à la programmation](https://self-learning.info.ucl.ac.be/index/info1-exercises) (Inscription gratuite sur le site. Pour réaliser les exercices sur INGInious.org, créez-vous un compte gratuitement et liez ensuite votre compte self-learning à votre compte INGInious. )
-* [Le guide de l’auto-stoppeur pour Python!](https://python-guide-fr.readthedocs.io/fr/latest/) - Kenneth Reitz
-* [Python Programming in French](https://www.youtube.com/playlist?list=PL0mGkrTWmp4ugGM9fiZjEuzMFeKD6Rh5G) - Data Scientist Nigeria
-* [Une introduction à Python 3](https://perso.limsi.fr/pointal/python:courspython3) - Bob Cordeau, Laurent Pointal
+* [Apprendre à programmer avec Python](https://inforef.be/swi/python.htm) - Gerard Swinnen, `trl.:` Péter Daróczy, Hichem Razgallah, Mohamed Amine et al. (HTML, PDF, EPUB, ODT) (CC BY-NC-SA)
+* [Le guide de l’auto-stoppeur pour Python!](https://python-guide-fr.readthedocs.io/fr/latest/) - Kenneth Reitz (HTML, PDF) (CC BY-NC-SA)
+* [Une introduction à Python 3](https://web.archive.org/web/20250204070442if_/https://perso.limsi.fr/pointal/python:courspython3) - Bob Cordeau, Laurent Pointali (CC BY-NC-SA) *( :card_file_box: archived)*
 
 
 #### Django
@@ -304,7 +302,7 @@
 
 #### Ruby on Rails
 
-* [Tutoriel Ruby on Rails : Apprendre Rails par l'exemple](https://web.archive.org/web/20210801160026/french.railstutorial.org/chapters/beginning) - Michael Hartl *(:card_file_box: archived)*
+* [Tutoriel Ruby on Rails : Apprendre Rails par l'exemple](https://web.archive.org/web/20210801160026/french.railstutorial.org/chapters/beginning) - Michael Hartl *( :card_file_box: archived)*
 
 
 ### Rust
